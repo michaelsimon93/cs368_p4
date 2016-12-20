@@ -15,12 +15,19 @@ complex numbers (using the overloaded input operator) and uses the overloaded op
 following (in this order):
 
 C1 + C2
+
 C1 - C2
+
 C1 * C2
+
 C1 == C2
+
 C1 != C2
+
 C1 += C2 (then reset C1 to its original value)
+
 C1 -= C2 (then reset C1 to its original value)
+
 C1 *= C2
 
 An example of how the main function runs and the output it produces is given below:

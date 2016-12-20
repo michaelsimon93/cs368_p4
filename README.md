@@ -26,15 +26,27 @@ C1 *= C2
 An example of how the main function runs and the output it produces is given below:
 
 Enter a complex number C1: 
+
 4.2 + 8.3i
+
 Enter a complex number C2: 
+
 3.1 - 9.2i
+
 For C1 = 4.2 + 8.3i and C2 = 3.1 - 9.2i : 
+
 C1 + C2 = 7.3 - 0.9i
+
 C1 - C2 = 1.1 + 17.5i
+
 C1 * C2 = 89.38 - 12.91i
+
 C1 == C2 is false
+
 C1 != C2 is true
+
 After C1 += C2, C1 = 7.3 - 0.9i
+
 After C1 -= C2, C1 = 1.1 + 17.5i
+
 After C1 *= C2, C1 = 89.38 - 12.91i
